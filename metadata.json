@@ -1,0 +1,6 @@
+{
+  "name": "¡Caos Gelatina! - Diseño & Prototipo Jugable",
+  "description": "Concepto integral de videojuego party-game de físicas cómicas para 1-3 jugadores, con prototipo jugable 60fps y Documento de Diseño (GDD) ejecutivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
